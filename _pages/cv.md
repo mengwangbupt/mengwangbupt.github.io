@@ -11,8 +11,8 @@ redirect_from:
 
 Curriculum Vitae
 ---
-[English CV](files/mobicom19.pdf)<br>
-[Chinese CV](files/mobicom19.pdf)<br>
+[English CV](PDF to appear)<br>
+[Chinese CV](PDF to appear)<br>
 
 Contact
 ---
