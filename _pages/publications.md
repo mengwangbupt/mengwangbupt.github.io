@@ -69,7 +69,7 @@ Co-author Publications
   [PDF](files/lx-2019-cloud.pdf)<br>
 - <font color='Blue'> Enhancing Availability of Traffic-Aware Virtual Cluster Allocation in Cloud Datacenters </font>
   Xuan Liu, Bo Cheng, Yi Yue, **Meng Wang**, Biyi Li, Junliang Chen<br>
-  Published in *IEEE International Conference on Services Computing (SCC) *, 2019. (CCF C)<br>
+  Published in *IEEE International Conference on Services Computing (SCC)*, 2019. (CCF C)<br>
   [PDF](files/lx-2019-scc.pdf)<br>
 - <font color='Blue'> Resource Optimization and Traffic-Aware VNF Placement in NFV-Enabled Networks </font>
   Yi Yue, Bo Cheng, Xuan Liu, **Meng Wang**, Biyi Li<br>
