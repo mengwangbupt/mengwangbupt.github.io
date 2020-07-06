@@ -41,7 +41,7 @@ Publications
   [PDF](files/globecom19.pdf)<br>
 - <font color='Blue'> Poster: A Linear Programming Approach for SFC Placement in Mobile Edge Computing </font>
   **Meng Wang**, Bo Cheng, Junliang Chen<br>
-  Published in *Annual International Conference on Mobile Computing and Networking (MobiCom)*, 2019. (CCF A)<br>
+  Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2019. (CCF A)<br>
   [PDF](files/mobicom19.pdf)<br>
 - <font color='Blue'> Poster: A SDN/NFV-Based Network Slicing Creation System </font>
   **Meng Wang**, Bo Cheng, Junliang Chen<br>
@@ -53,7 +53,7 @@ Publications
   [PDF](files/services19.pdf)<br>
 - <font color='Blue'> Poster: A SDN/NFV-Based IoT Network Slicing Creation System </font>
   **Meng Wang**, Bo Cheng, Xuan Liu, Yi Yue, Biyi Li, Junliang Chen<br>
-  Published in *Annual International Conference on Mobile Computing and Networking (MobiCom)*, 2018. (CCF A)<br>
+  Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2018. (CCF A)<br>
   [PDF](files/mobicom18.pdf)<br>
 
 Awards
