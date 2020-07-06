@@ -46,11 +46,11 @@ Publications
 - <font color='Blue'> Poster: A SDN/NFV-Based Network Slicing Creation System </font>
   **Meng Wang**, Bo Cheng, Junliang Chen<br>
   Published in *International Conference on Service-Oriented Computing (ICSOC)*, 2019. (CCF B)<br>
-  [PDF](files/icsoc19.pdf)<br>
+  [PDF](files/icsoc19.pdf)
 - <font color='Blue'> Service Function Chain Composition and Mapping in NFV-Enabled Networks </font>
   **Meng Wang**, Bo Cheng, Biyi Li, Junliang Chen<br>
   Published in *IEEE World Congress on Services (SERVICES)*, 2019<br>
-  [PDF](files/services19.pdf)<br>
+  [PDF](files/services19.pdf)
 - <font color='Blue'> Poster: A SDN/NFV-Based IoT Network Slicing Creation System </font>
   **Meng Wang**, Bo Cheng, Xuan Liu, Yi Yue, Biyi Li, Junliang Chen<br>
   Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2018. (CCF A)<br>
