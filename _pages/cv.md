@@ -11,8 +11,8 @@ redirect_from:
 
 Curriculum Vitae
 ---
-[English CV](PDF to appear)<br>
-[Chinese CV](PDF to appear)<br>
+[English CV](files/cv-en.pdf)<br>
+[Chinese CV](files/cv-cn.pdf)<br>
 
 Contact
 ---
