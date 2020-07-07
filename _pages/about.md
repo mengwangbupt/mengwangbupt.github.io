@@ -59,6 +59,7 @@ Publications
 Awards
 ---
 - China Scholarship Council (CSC) Scholarship, 2019, 2020<br>
+- BUPT Excellent Ph.D. Students Foundation, 2019, 2020<br>
 - Graduate Student Scholarship, BUPT, 2016, 2017, 2018, 2019<br>
 
 Reviewer
