@@ -11,7 +11,7 @@ Publications
 a Center Networks</font>
   **Meng Wang**, Bo Cheng, Junliang Chen<br>
   Published in *IEEE Transactions on Network and Service Management (TNSM)*, 2020. (CCF C)<br>
-  [PDF](_pages/files/tnsm2020.pdf)<br>
+  [PDF](../files/tnsm2020.pdf)<br>
 - <font color='Blue'> An Efficient Service Function Chaining Placement Algorithm in Mobile Edge Computing </font>
   **Meng Wang**, Bo Cheng, Junliang Chen<br>
   Published in *ACM Transactions on Internet Technology (TOIT)*, 2020. (CCF B)<br>
