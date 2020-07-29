@@ -23,6 +23,14 @@ Education
 
 Publications
 ---
+- <font color=Blue> Joint Availability- and Traffic-aware Placement of Parallelized Service Chain in NFV-enabled Data Center </font>
+  **Meng Wang**, Bo Cheng, Junliang Chen<br>
+  Published in *IEEE International Conference on Web Services (ICWS)*, 2020. (CCF B)<br>
+  [Accepted](PDF to appear)
+- <font color=Blue> A Lightweight SOA-Based Network Slicing Creation System </font>
+  **Meng Wang**, Bo Cheng, Junliang Chen<br>
+  Published in *IEEE International Conference on Cloud Computing (CLOUD)*, 2020. (CCF C)<br>
+  [Accepted](PDF to appear)
 - <font color='Blue'>Joint Availability Guarantee and Resource Optimization of Virtual Network Function Placement in Data Center Networks</font>
   **Meng Wang**, Bo Cheng, Junliang Chen<br>
   Published in *IEEE Transactions on Network and Service Management (TNSM)*, 2020. (CCF C)<br>
