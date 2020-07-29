@@ -51,8 +51,12 @@ a Center Networks</font>
 
 Co-author Publications
 ---
+- <font color='Blue'> Availability-aware Service Function Chain Placement in Mobile Edge Computing </font>
+  Xiaohan Yin, Bo Cheng, **Meng Wang**, Junliang Chen<br>
+  Published in *IEEE World Congress on Services (SERVICES)*, 2020<br>
+  [Accepted](PDF to appear)<br>
 - <font color='Blue'> BAGUETTE: Towards a Secure and Cost-effective Switch Upgrade in Hybrid Software-Defined Networks </font>
-  Wendi Feng, Zehua Guoy, Chuanchang Liu, Yueming Zheng, **Meng Wang**, Bo Cheng, and Junliang Chen<br>
+  Wendi Feng, Zehua Guo, Chuanchang Liu, Yueming Zheng, **Meng Wang**, Bo Cheng, and Junliang Chen<br>
   Published in *IEEE International Conference on Communications (ICC)*, 2020. (CCF C)<br>
   [Accepted](PDF to appear)<br>
 - <font color='Blue'> Poster: Dynamic VNF Placement for Mapping Service Function Chain Requests in NFV-enabled Networks </font>
