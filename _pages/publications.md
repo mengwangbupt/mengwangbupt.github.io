@@ -55,10 +55,6 @@ Co-author Publications
   Xiaohan Yin, Bo Cheng, **Meng Wang**, Junliang Chen<br>
   Published in *IEEE World Congress on Services (SERVICES)*, 2020<br>
   [Accepted](PDF to appear)<br>
-- <font color='Blue'> BAGUETTE: Towards a Secure and Cost-effective Switch Upgrade in Hybrid Software-Defined Networks </font>
-  Wendi Feng, Zehua Guo, Chuanchang Liu, Yueming Zheng, **Meng Wang**, Bo Cheng, and Junliang Chen<br>
-  Published in *IEEE International Conference on Communications (ICC)*, 2020. (CCF C)<br>
-  [Accepted](PDF to appear)<br>
 - <font color='Blue'> Poster: Dynamic VNF Placement for Mapping Service Function Chain Requests in NFV-enabled Networks </font>
   Yi Yue, Bo Cheng, Xuan Liu, **Meng Wang**, Biyi Li<br>
   Published in *International World Wide Web Conferences (WWW)*, 2020. (CCF A)<br>
