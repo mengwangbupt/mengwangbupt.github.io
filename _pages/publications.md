@@ -59,10 +59,6 @@ Co-author Publications
   Yi Yue, Bo Cheng, Xuan Liu, **Meng Wang**, Biyi Li<br>
   Published in *International World Wide Web Conferences (WWW)*, 2020. (CCF A)<br>
   [PDF](files/yy-2020-www.pdf)<br>
-- <font color='Blue'> MobiGyges: A mobile hidden volume for preventing data loss, improving storage utilization, and avoiding device reboot </font>
-  Wendi Feng, Chuanchang Liu, Zehua Guo, Thar Baker, Gang Wang, **Meng Wang**, Bo Cheng, Junliang Chen<br>
-  Published in *Future Generation Computer Systems (FGCS)*, 2020. (CCF C)<br>
-  [PDF](files/fwd-2020-fgcs.pdf)<br>
 - <font color='Blue'> Poster: Edge-cloud Enhancement - Latency-aware Virtual Cluster Placement for Supporting Cloud Applications in Mobile Edge Networks </font>
   Xuan Liu, Bo Cheng, **Meng Wang**, Junliang Chen<br>
   Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2019. (CCF A)<br>
