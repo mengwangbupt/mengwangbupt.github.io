@@ -80,8 +80,10 @@ Reviewer
 
 Presentations
 ---
-- IEEE ICWS’19, Milan, Italy, 7/2019<br>
+- IEEE ICWS'19, Virtual Conference, 10/2020<br>
+- IEEE CLOUD'19, Virtual Conference, 10/2020<br>
+- IEEE ICWS'19, Milan, Italy, 7/2019<br>
 - IEEE Service Congress, Milan, Doctoral Symposium, 7/2019<br>
-- ACM/IEEE MobiCom’19, Poster Session, New Delhi, Indian, 10/2018<br>
+- ACM/IEEE MobiCom'19, Poster Session, New Delhi, Indian, 10/2018<br>
 - OPNFV Plugfest & NFV Plugtests, Valbonne, France, 6/2018<br>
 

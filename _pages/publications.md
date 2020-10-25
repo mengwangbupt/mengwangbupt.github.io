@@ -51,6 +51,18 @@ a Center Networks</font>
 
 Co-author Publications
 ---
+- <font color='Blue'> Poster: TSFCC: High Availability Service Function Chain Composition Approach in Mobile Network </font>
+  Meng Niu, Bo Cheng, Wenyuan Gu, **Meng Wang**, Junliang Chen<br>
+  Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2020. (CCF A)<br>
+  [Accepted](PDF to appear)<br>
+- <font color='Blue'> Poster: A Seamless Virtualized Network Functions Migration Mechanism in Mobile Edge Networks </font>
+  Biyi Li, Bo Cheng, Yi Yue **Meng Wang**, Junliang Chen<br>
+  Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2020. (CCF A)<br>
+  [Accepted](PDF to appear)<br>
+- <font color='Blue'> Poster: Throughput Optimization VNF Placement For Mapping SFC Requests in MEC-NFV Enabled Networks </font>
+  Yi Yue, Bo Cheng, Biyi Li, Xuan Liu, **Meng Wang**<br>
+  Published in *ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom)*, 2020. (CCF A)<br>
+  [Accepted](PDF to appear)<br>
 - <font color='Blue'> Availability-aware Service Function Chain Placement in Mobile Edge Computing </font>
   Xiaohan Yin, Bo Cheng, **Meng Wang**, Junliang Chen<br>
   Published in *IEEE World Congress on Services (SERVICES)*, 2020<br>
